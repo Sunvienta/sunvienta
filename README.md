@@ -1,6 +1,5 @@
-# TCP-UDP-Flood
-Python3 TCP/UDP Flood script
+python3
 
 Usage:
 
-    python3 flood.py
+    nothing
